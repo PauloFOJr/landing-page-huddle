@@ -25,7 +25,7 @@ Visão geral
 ### Links
 
 - URL da solução: [Adicione a URL da solução aqui](https://your-solution-url.com)
-- URL do site ativo: [Adicione a URL do site ativo aqui](https://your-live-site-url.com)
+- URL do site ativo:(https://paulofojr.github.io/landing-page-huddle/)
 
 ### Meu processo
 
