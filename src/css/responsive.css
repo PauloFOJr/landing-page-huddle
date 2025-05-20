@@ -1,0 +1,34 @@
+@media (max-width: 768px) {
+    body {
+        background: url(../images/bg-mobile.svg)center center no-repeat;
+        background-color: hsl(257, 40%, 49%);
+        background-size: cover;
+        height: 100vh;
+
+    }
+
+    .informacoes {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .informacoes .infos {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .informacoes .infos .btn-register {
+        padding: 12px 90px;
+        border-radius: 25px;
+    }
+
+    .social {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+        padding-bottom: 50px;
+    }
+}
