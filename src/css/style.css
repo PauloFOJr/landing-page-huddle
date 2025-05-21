@@ -4,6 +4,7 @@ body {
     background-size: cover;
     height: 100vh;
     max-width: 1440px;
+    margin: 0 auto;
 }
 
 .cabecalho {
@@ -57,6 +58,8 @@ body {
 .informacoes .infos .btn-register:hover {
     background-color: hsl(300, 69%, 71%);
     color: #fff;
+    transition: 0.3s ease-in-out;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 .social {
@@ -81,4 +84,6 @@ body {
 .social a:hover {
     border: 2px solid hsl(300, 69%, 71%);
     color: hsl(300, 69%, 71%);
+     transition: 0.3s ease-in-out;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
 }
