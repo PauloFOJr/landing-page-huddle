@@ -1,5 +1,5 @@
 
-# Mentor Frontend - Solução para página de receitas
+# Mentor Frontend - Solução para Landing Page
 
 Esta é uma solução para o [desafio da página de receitas no Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
